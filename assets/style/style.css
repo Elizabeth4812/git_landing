@@ -1,5 +1,5 @@
 body {
-  background: #342E37;
+  background: #9508dc;
   }
 
 .container {
@@ -39,7 +39,7 @@ form {
 }
   
 .btn a {
-    color: white;
+    color: rgb(230, 14, 14);
   font-family: 'Open Sans', sans-serif;
   font-size: 1rem;
   font-weight: 300;
